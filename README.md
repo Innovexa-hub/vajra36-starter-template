@@ -1,0 +1,1 @@
+# vajra36-starter-template
